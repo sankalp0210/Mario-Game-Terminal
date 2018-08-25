@@ -19,7 +19,7 @@ The application demonstrates inheritance, encapsulation, polymorphism and abstra
 - To quit, press `q`
 
 ## File Structure
-.
+```.
 ├── board.py
 ├── conf.py
 ├── main.py
@@ -27,7 +27,7 @@ The application demonstrates inheritance, encapsulation, polymorphism and abstra
 ├── people.py
 ├── README.md
 └── requirements.txt
-
+```
 ## Features
 - The name of my mario is bond.
 - There are 3 lives, whenever a life is lost, game starts from the beginning.
